@@ -11,7 +11,10 @@
         "react-router-dom": "^5.1.0",
         "react-scripts": "^5.0.1",
         "recoil": "^0.5.2",
-        "tailwindcss": "^2.2.19"
+        "tailwindcss": "^2.2.19",
+        "@heroicons/react": "^2.2.0",
+        "classnames": "^2.5.1",
+        "lucide-react": "^0.503.0"
     },
     "devDependencies": {
         "autoprefixer": "^10.2.5",
